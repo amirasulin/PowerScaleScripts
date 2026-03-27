@@ -1,3 +1,3 @@
 git add .
-git commit -m "sd"
+git commit -m $$
 git push
